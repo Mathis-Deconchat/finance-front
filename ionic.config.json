@@ -1,0 +1,7 @@
+{
+  "name": "finance-front",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
